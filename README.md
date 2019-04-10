@@ -1,1 +1,1 @@
-Jekyll blog hosted on GitHub Pages
+Personnal blog hosted on GitHub Pages
