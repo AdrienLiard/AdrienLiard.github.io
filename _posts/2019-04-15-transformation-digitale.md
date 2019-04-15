@@ -27,7 +27,7 @@ Le diagnostic étant réalisé il ne reste donc plus qu'à passer au traitement:
 
 Vraiment ?
 
-##End of Power: la révolution n'est pas (que) technologique
+## End of Power: la révolution n'est pas (que) technologique
 Ce diagnostic repose sur une hypothèse : la révolution serait technologique et digitale, la transformation se doit donc d'être technologique et digitale. 
 
 Les difficultés des entreprises à conserver leur marché et leurs clients et à résister à de nouveaux concurrents s'explique t'elle réellement par leur échec à maîtriser ces nouvelles technologies ?
@@ -44,27 +44,27 @@ L'affaiblissement des grandes entreprises ? La faute aux nouvelles technologies
 
 Moises Naim réfute cette explication: l'impact des nouvelles technologies ne suffit pas à expliquer ces mutations. Il serait évidemment stupide de nier l'impact de ces nouveaux outils dans la transformation du monde mais Internet et la digitalisation du monde ne sont pas à eux seuls responsables de la fragilisation des pouvoirs. Expliquer le printemps arabe par l'utilisation de Twitter et Facebook revient à nier les causes sociales, culturelles et géo-politiques du mouvement. De la même façon, ces raisons ne suffisent pas à expliquer les difficultés des grandes entreprises à conserver leur hégémonie. **Se focaliser sur les outils ne permet pas de comprendre les causes profondes de ces mutations.**
 
-##Les trois révolutions : More, Mentality & Mobility
+## Les trois révolutions : More, Mentality & Mobility
 
 Selon Moises Naim, la révolution est en réalité multiple. Nous faisons face à trois révolutions simultanées: 
 
-###La révolution du "Plus" : More revolution
+### La révolution du "Plus" : More revolution
 
 Le monde n'a jamais été aussi peuplé et jamais nous n'avons produit autant: les entreprises sont de plus en plus nombreuses et proposent de plus en plus de produits et services. Nous vivons plus longtemps et en meilleure santé. Nous produisons plus et les produits sont de meilleure qualité. Nous produisons toujours plus d'informations et nous pouvons la consommer plus rapidement. 
 Face à ce "toujours plus, toujours plus vite" les grandes entreprises sont confrontées à une concurrence plus nombreuse et plus rapide.
 
-###La révolution de la Mobilité : Mobility revolution
+### La révolution de la Mobilité : Mobility revolution
 Nous n'avons jamais été aussi nombreux et n'avons jamais autant produit mais nous n'avons également jamais été aussi mobiles: les populations et les biens circulent vite et beaucoup. Ces flux constants et massifs de populations et de biens sont plus difficiles à contrôler. 
 
 Dans ce monde mobile et dynamique, les consommateurs sont plus difficiles à fidéliser et les marchés sont globalisés.
 
-###La révolution des Mentalités : Mentality revolution
+### La révolution des Mentalités : Mentality revolution
 
 Nos aspirations ont profondément changées: les révolutions du Plus et de la Mobilité ont fait apparaître des classes moyennes nombreuses et mobiles qui aspirent à constamment améliorer leurs conditions de vie. Ces aspirations ne sont pas nouvelles mais sont considérablement amplifiées et accélérées par les révolutions du Plus et de la Mobilité : les ressources sont plus accessibles et les capacités d'apprentissage, de communication et de déplacement sont augmentées. 
 
 Ce profond changement des mentalités obligent les grandes entreprises à rendre des comptes aux consommateurs. Les aspirations de leurs salariés changent et remettent en cause les structures traditionnelles de management et de gouvernance.
 
-##Un monde volatile, incertain, complexe et ambiguë
+## Un monde volatile, incertain, complexe et ambiguë
 
 Face à cette triple révolution, la transformation ne peut être uniquement technologique ou digitale. L'indispensable transformation des entreprises ne peut se résumer à l'utilisation des nouvelles technologies, à la formation du personnel à ces outils et au développement de produits et services digitaux. 
 
