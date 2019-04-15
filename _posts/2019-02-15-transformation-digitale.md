@@ -6,6 +6,8 @@ excerpt_separator: <!--more-->
 
 La transformation digitale ou numérique des entreprises n'est pas la solution pour survivre et prospérer dans le monde complexe actuel. La révolution n'est pas technologique, la nécessaire transformation des entreprises ne l'est pas non plus.
 
+<!--more-->
+
 ## Se transformer ou mourir
 Le monde se transforme, et il se transforme vite. Les entreprises ont bien compris qu'elles devaient se transformer aussi: elles risquent de ne plus être adaptées au monde, à leur marché. Uberisation, disruption: les grandes entreprises sont menacées. 
 L'ennemi est nouveau, les entreprises doivent s'adapter et vite, car l'ennemi avance vite, très vite.
@@ -25,7 +27,7 @@ Le diagnostic étant réalisé il ne reste donc plus qu'à passer au traitement:
 
 **Vraiment ?**
 
-<!--more-->
+
 
 ## End of Power: la révolution n'est pas (que) technologique
 Ce diagnostic repose sur une hypothèse : **la révolution serait technologique et digitale, la transformation se doit donc d'être technologique et digitale.**
