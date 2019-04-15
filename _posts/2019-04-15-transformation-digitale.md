@@ -4,8 +4,6 @@ title: La nécessaire transformation des entreprises n'est pas digitale
 excerpt_separator: <!--more-->
 ---
 
-# La nécessaire transformation des entreprises n'est pas digitale
-
 La transformation digitale ou numérique des entreprises n'est pas la solution pour survivre et prospérer dans le monde complexe actuel. La révolution n'est pas technologique, la nécessaire transformation des entreprises ne l'est pas non plus.
 
 ## Se transformer ou mourir
