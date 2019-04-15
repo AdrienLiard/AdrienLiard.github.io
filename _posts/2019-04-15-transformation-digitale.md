@@ -25,6 +25,8 @@ Le diagnostic étant réalisé il ne reste donc plus qu'à passer au traitement:
 
 **Vraiment ?**
 
+<!--more-->
+
 ## End of Power: la révolution n'est pas (que) technologique
 Ce diagnostic repose sur une hypothèse : **la révolution serait technologique et digitale, la transformation se doit donc d'être technologique et digitale.**
 
