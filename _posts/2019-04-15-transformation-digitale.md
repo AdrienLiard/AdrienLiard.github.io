@@ -23,24 +23,25 @@ La réponse est rassurante : pour conserver leur position, leur marché et leur
 
 Le diagnostic étant réalisé il ne reste donc plus qu'à passer au traitement: investissons dans le développement de nouveaux outils et produits digitaux, formons nos salariés à leur utilisation, nos commerciaux à les vendre et surtout restons sur le qui-vive pour être sûr de ne pas louper la nouvelle technologie révolutionnaire! 
 
-Vraiment ?
+**Vraiment ?**
 
 ## End of Power: la révolution n'est pas (que) technologique
-Ce diagnostic repose sur une hypothèse : la révolution serait technologique et digitale, la transformation se doit donc d'être technologique et digitale. 
+Ce diagnostic repose sur une hypothèse : **la révolution serait technologique et digitale, la transformation se doit donc d'être technologique et digitale.**
 
 Les difficultés des entreprises à conserver leur marché et leurs clients et à résister à de nouveaux concurrents s'explique t'elle réellement par leur échec à maîtriser ces nouvelles technologies ?
 
-Dans son livre End of Power, Moisés Naim analyse la fragilisation des grands pouvoirs. Les états, les institutions religieuses et les grandes entreprises, autrefois tout puissant, voient leur hégémonie et leur capacité à agir sur le monde se réduire. Cette situation est nouvelle : leur pouvoir n'a jamais été aussi menacé. 
+Dans son livre End of Power, Moisés Naim analyse la fragilisation des grands pouvoirs. Les états, les institutions religieuses et les grandes entreprises, autrefois tout puissant, voient leur hégémonie et leur capacité à agir sur le monde se réduire. **Cette situation est nouvelle : leur pouvoir n'a jamais été aussi menacé.** 
 
 Les grandes entreprises subissent de plein fouet cette affaiblissement des pouvoirs : des nouveaux acteurs apparaissent sans cesse et peuvent conquérir en quelques années des marchés autrefois stables, les barrières à l'entrée sont réduites. Les consommateurs sont plus difficiles à fidéliser et demandent des comptes: l'opinion publique et les réseaux sociaux peuvent considérablement limiter les capacités d'actions des grands dirigeants.
 
-Les grandes entreprises ne sont pas les seules à subir cette profonde mutation: les états et les institutions religieuses sont confrontées à cette nouvelle réalité: le pouvoir est plus facile à obtenir mais également plus difficile à conserver. De nouveaux acteurs peuvent remettre en cause les pouvoirs établis du jour au lendemain et les capacités d'action de ceux qui sont aux commandes sont réduites pour l'empêcher.
+Les grandes entreprises ne sont pas les seules à subir cette profonde mutation: les états et les institutions religieuses sont confrontées à cette nouvelle réalité: **le pouvoir est plus facile à obtenir mais également plus difficile à conserver.** De nouveaux acteurs peuvent remettre en cause les pouvoirs établis du jour au lendemain et les capacités d'action de ceux qui sont aux commandes sont réduites pour l'empêcher.
 
 La tentation est trop grande d'expliquer cette nouvelle donne par la révolution technologique: 
-L'affaiblissement des élites politiques ? La faute aux réseaux sociaux 
-L'affaiblissement des grandes entreprises ? La faute aux nouvelles technologies
 
-Moises Naim réfute cette explication: l'impact des nouvelles technologies ne suffit pas à expliquer ces mutations. Il serait évidemment stupide de nier l'impact de ces nouveaux outils dans la transformation du monde mais Internet et la digitalisation du monde ne sont pas à eux seuls responsables de la fragilisation des pouvoirs. Expliquer le printemps arabe par l'utilisation de Twitter et Facebook revient à nier les causes sociales, culturelles et géo-politiques du mouvement. De la même façon, ces raisons ne suffisent pas à expliquer les difficultés des grandes entreprises à conserver leur hégémonie. **Se focaliser sur les outils ne permet pas de comprendre les causes profondes de ces mutations.**
+    - L'affaiblissement des élites politiques ? La faute aux réseaux sociaux 
+    - L'affaiblissement des grandes entreprises ? La faute aux nouvelles technologies
+
+Moises Naim réfute cette explication: l'impact des nouvelles technologies ne suffit pas à expliquer ces mutations. Il serait évidemment stupide de nier l'impact de ces nouveaux outils dans la transformation du monde mais **Internet et la digitalisation du monde ne sont pas à eux seuls responsables de la fragilisation des pouvoirs.** Expliquer le printemps arabe par l'utilisation de Twitter et Facebook revient à nier les causes sociales, culturelles et géo-politiques du mouvement. De la même façon, ces raisons ne suffisent pas à expliquer les difficultés des grandes entreprises à conserver leur hégémonie. **Se focaliser sur les outils ne permet pas de comprendre les causes profondes de ces mutations.**
 
 ## Les trois révolutions : More, Mentality & Mobility
 
@@ -64,9 +65,9 @@ Ce profond changement des mentalités obligent les grandes entreprises à rendre
 
 ## Un monde volatile, incertain, complexe et ambiguë
 
-Face à cette triple révolution, la transformation ne peut être uniquement technologique ou digitale. L'indispensable transformation des entreprises ne peut se résumer à l'utilisation des nouvelles technologies, à la formation du personnel à ces outils et au développement de produits et services digitaux. 
+**Face à cette triple révolution, la transformation ne peut être uniquement technologique ou digitale.** L'indispensable transformation des entreprises ne peut se résumer à l'utilisation des nouvelles technologies, à la formation du personnel à ces outils et au développement de produits et services digitaux. 
 
-Se focaliser sur les outils reviendrait à ignorer que les causes sont profondes: notre monde a changé, continue à changer et ces changements vont en s'accélérant. 
+Se focaliser sur les outils reviendrait à ignorer que les causes sont profondes: **notre monde a changé, continue à changer et ces changements vont en s'accélérant.**
 
 Les challenges sont nombreux:
 Il est de plus en plus difficile pour les entreprises de déterminer quels sont les besoins de leur clients et encore plus de prédire leurs besoins futurs. 
