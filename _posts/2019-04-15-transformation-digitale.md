@@ -40,8 +40,8 @@ Les grandes entreprises ne sont pas les seules à subir cette profonde mutation:
 
 La tentation est trop grande d'expliquer cette nouvelle donne par la révolution technologique: 
 
-    - L'affaiblissement des élites politiques ? La faute aux réseaux sociaux 
-    - L'affaiblissement des grandes entreprises ? La faute aux nouvelles technologies
+- L'affaiblissement des élites politiques ? La faute aux réseaux sociaux 
+- L'affaiblissement des grandes entreprises ? La faute aux nouvelles technologies
 
 Moises Naim réfute cette explication: l'impact des nouvelles technologies ne suffit pas à expliquer ces mutations. Il serait évidemment stupide de nier l'impact de ces nouveaux outils dans la transformation du monde mais **Internet et la digitalisation du monde ne sont pas à eux seuls responsables de la fragilisation des pouvoirs.** Expliquer le printemps arabe par l'utilisation de Twitter et Facebook revient à nier les causes sociales, culturelles et géo-politiques du mouvement. De la même façon, ces raisons ne suffisent pas à expliquer les difficultés des grandes entreprises à conserver leur hégémonie. **Se focaliser sur les outils ne permet pas de comprendre les causes profondes de ces mutations.**
 
